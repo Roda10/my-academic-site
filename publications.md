@@ -15,8 +15,8 @@ title: Publications
     Developed a composition of experts framework combining SMPLest-X, WiLoR, and EMOCA for parameter-level fusion, achieving real-time full-body reconstruction with superior hand and face details compared to FrankMocap baseline.
   </p>
   <div class="pub-links">
-    <!-- <a href="#">[PDF]</a> -->
-    <!-- <a href="#">[Code]</a> -->
+    <a href="https://drive.google.com/file/d/1ie_sMKMxkpYcWUKtagHiUPQcNsE5KhLF/view?usp=sharing">[PDF]</a>
+    <a href="https://github.com/Roda10/3d_whole_body_pipeline/tree/master">[Code]</a>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ title: Publications
     Proposed a novel method for initializing convolutional filters based on phytopathology expertise. Conducted extensive study of deep CNNs and evaluated neural network interpretability and fidelity for agricultural disease detection.
   </p>
   <div class="pub-links">
-    <!-- <a href="#">[PDF]</a> -->
+    <a href="https://drive.google.com/file/d/1JaKpOsRal-5tRxKccmmGaQeQevP6YdXd/view?usp=sharing">[PDF]</a> 
     <!-- <a href="#">[Code]</a> -->
   </div>
 </div>
