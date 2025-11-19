@@ -13,10 +13,10 @@ title: Home
       <p class="profile-title">Engineer in Computer Vision and Generative AI</p>
       <p class="profile-title">African Institute of Mathematical Sciences (AIMS)</p>
       <div class="profile-links">
-        <a href="mailto:{{ site.email }}">Email</a>
-        <a href="{{ site.author.linkedin }}" target="_blank">LinkedIn</a>
-        <!-- <a href="{{ site.author.github }}" target="_blank">GitHub</a> -->
-        <!-- <a href="{{ site.author.scholar }}" target="_blank">Google Scholar</a> -->
+        <a href="mailto:rodeo@aims.ac.za">Email</a>
+        <a href="https://www.linkedin.com/in/rodeooswald/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/Roda10" target="_blank">GitHub</a> 
+        <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=SgHWtRMAAAAJ" target="_blank">Google Scholar</a>
       </div>
     </div>
   </div>
