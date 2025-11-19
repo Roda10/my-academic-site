@@ -41,7 +41,7 @@ title: Projects
   <p><strong>Technologies:</strong> Python, TensorFlow, Excel</p>
   <div class="project-links">
     <!-- <a href="#">[GitHub]</a> -->
-    <a href="/publications">[Report]</a>
+    <!-- <a href="/publications">[Report]</a> -->
   </div>
 </div>
 
