@@ -3,7 +3,7 @@ title: Rodéo Oswald Y. TOHA
 email: rodeooswald@gmail.com
 description: >-
   PhD Aspirant in 3D Computer Vision and Generative AI
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/my-academic-site" # the subpath of your site, e.g. /blog
 url: "https://roda10.github.io" # the base hostname & protocol for your site
 
 # Personal info
