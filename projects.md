@@ -13,9 +13,9 @@ title: Projects
   </p>
   <p><strong>Technologies:</strong> Python, PyTorch, SMPL-X model</p>
   <div class="project-links">
-    <!-- <a href="#">[GitHub]</a> -->
+    <a href="https://github.com/Roda10/3d_whole_body_pipeline/tree/master">[GitHub]</a> 
     <!-- <a href="#">[Demo]</a> -->
-    <a href="/publications">[Publication]</a>
+    <a href="https://drive.google.com/file/d/1ie_sMKMxkpYcWUKtagHiUPQcNsE5KhLF/view?usp=sharing">[Publication]</a>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ title: Projects
   <p><strong>Technologies:</strong> Python, TensorFlow, Keras</p>
   <div class="project-links">
     <!-- <a href="#">[GitHub]</a> -->
-    <a href="/publications">[Publication]</a>
+    <a href="https://drive.google.com/file/d/1JaKpOsRal-5tRxKccmmGaQeQevP6YdXd/view?usp=sharing">[Publication]</a>
   </div>
 </div>
 
