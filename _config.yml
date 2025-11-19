@@ -1,0 +1,51 @@
+# Site settings
+title: Rodéo Oswald Y. TOHA
+email: rodeooswald@gmail.com
+description: >-
+  PhD Aspirant in 3D Computer Vision and Generative AI
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Personal info
+author:
+  name: Rodéo Oswald Y. TOHA
+  position: Engineer in Computer Vision and Generative AI
+  institution: African Institute of Mathematical Sciences (AIMS)
+  location: Cape Town, South Africa / Godomey, Benin
+  phone: (+229) 98137216
+  email: rodeooswald@gmail.com
+  linkedin: https://www.linkedin.com/in/rodeo-toha
+  github: # Add your GitHub username if you have one
+  scholar: # Add your Google Scholar URL if you have one
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
+  - title: Projects
+    url: /projects
+  - title: Teaching
+    url: /teaching
+  - title: Service
+    url: /service
+  - title: Contact
+    url: /contact
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
