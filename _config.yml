@@ -4,7 +4,7 @@ email: rodeooswald@gmail.com
 description: >-
   PhD Aspirant in 3D Computer Vision and Generative AI
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://roda10.github.io" # the base hostname & protocol for your site
 
 # Personal info
 author:
