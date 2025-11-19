@@ -84,5 +84,5 @@ My teaching approach emphasizes:
 ---
 
 <p style="margin-top: 30px; color: #666; font-size: 14px;">
-  <em>Interested in collaborating on workshops or teaching opportunities? Feel free to <a href="/contact">reach out</a>.</em>
+  <em>Interested in collaborating on workshops or teaching opportunities? Feel free to <a href="https://www.linkedin.com/in/rodeooswald/">reach out</a>.</em>
 </p>

@@ -96,5 +96,5 @@ I am committed to:
 ---
 
 <p style="margin-top: 30px; color: #666; font-size: 14px;">
-  <em>Interested in collaboration or community initiatives? Please <a href="/contact">get in touch</a>.</em>
+  <em>Interested in collaboration or community initiatives? Please <a href="mailto:rodeo@aims.ac.za">get in touch</a>.</em>
 </p>

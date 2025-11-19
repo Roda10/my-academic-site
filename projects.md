@@ -46,7 +46,8 @@ title: Projects
 </div>
 
 ---
-
+<!-- 
 <p style="margin-top: 30px; color: #666; font-size: 14px;">
   <em>More project details and code repositories will be added as they become publicly available.</em>
 </p>
+-->

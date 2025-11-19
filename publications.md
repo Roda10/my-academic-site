@@ -10,7 +10,7 @@ title: Publications
 <div class="publication">
   <div class="pub-title">Robust Full-Body 3D Human Pose Estimation</div>
   <div class="pub-authors"><strong>Rodéo Oswald Y. TOHA</strong></div>
-  <div class="pub-venue">Master's Thesis, African Institute of Mathematical Sciences (AIMS)</div>
+  <div class="pub-venue">Master's Thesis, African Institute of Mathematical Sciences (AIMS), South Africa</div>
   <p>
     Developed a composition of experts framework combining SMPLest-X, WiLoR, and EMOCA for parameter-level fusion, achieving real-time full-body reconstruction with superior hand and face details compared to FrankMocap baseline.
   </p>
@@ -49,7 +49,8 @@ title: Publications
 </div>
 
 ---
-
+<!--
 <p style="margin-top: 30px; color: #666; font-size: 14px;">
   <em>Papers in preparation and under review will be added here. PDF links and code repositories will be made available upon publication.</em>
 </p>
+-->
