@@ -9,7 +9,7 @@ title: Teaching
 
 <div class="teaching-item">
   <div class="course-name">Probability and Statistics</div>
-  <div class="course-role">Adjunct Lecturer | IFRI (UAC) | Jan 2025 - Present | Cotonou, Benin</div>
+  <div class="course-role">Adjunct Lecturer | IFRI (UAC) | Jan 2026 - Present | Cotonou, Benin</div>
   <p>
     Teaching advanced topics in inferential statistics and applications to undergrad students. Courses cover different data collection methods, sampling distriution of mean and proportion, point estimation, confidence interval and statistics hypothesis test.
   </p>
