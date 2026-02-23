@@ -46,6 +46,10 @@ title: Home
     <h2>Recent News</h2>
     <ul class="news-list">
       <li>
+        <span class="news-date">Dec 2025</span>
+        Delivered a talk on how mathematical modeling and probability help advance generative AI, highlighting emerging research and engineering directions.
+      </li>
+      <li>
         <span class="news-date">Nov 2025</span>
         Leading workshop on Implementation of Diffusion Models at Benin Workshop on Artificial Intelligence (BWAI)
       </li>
