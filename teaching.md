@@ -8,16 +8,39 @@ title: Teaching
 ## University Teaching
 
 <div class="teaching-item">
-  <div class="course-name">Advanced Machine Learning and Computer Vision</div>
-  <div class="course-role">Lecturer / Associate Professor | University-level Courses | Oct 2020 - Present | Cotonou, Benin</div>
+  <div class="course-name">Probability and Statistics</div>
+  <div class="course-role">Adjunct Lecturer | IFRI (UAC) | Jan 2025 - Present | Cotonou, Benin</div>
   <p>
-    Teaching advanced topics in machine learning and computer vision at the university level. Courses cover deep learning architectures, convolutional neural networks, computer vision fundamentals, and practical applications of ML algorithms.
+    Teaching advanced topics in inferential statistics and applications to undergrad students. Courses cover different data collection methods, sampling distriution of mean and proportion, point estimation, confidence interval and statistics hypothesis test.
+  </p>
+</div>
+
+<div class="teaching-item">
+  <div class="course-name">Advanced Machine Learning and Computer Vision</div>
+  <div class="course-role">Adjunct Lecturer | ISE (ENEAM)  | Oct 2025 - Jan | Cotonou, Benin</div>
+  <p>
+    Teaching advanced topics in machine learning and computer vision to postgrad students Courses cover deep learning architectures, convolutional neural networks, computer vision fundamentals, and practical applications of ML algorithms.
   </p>
 </div>
 
 ---
 
 ## Workshops Led
+<div class="teaching-item">
+  <div class="course-name">Generative AI and Mathematical Modeling</div>
+  <div class="course-role">
+    Speaker | Café Scientifique of ENSGMM |
+    Nov 28, 2025 | Sogbo-Aliho, Benin |
+    <a href="https://drive.google.com/file/d/1n89ln3L0o7KH543idiDuN9rOCbEpxpJ0/view?usp=sharing" target="_blank" rel="noopener noreferrer">Material</a>
+  </div>
+  <p>
+    Delivered a talk on how mathematical modeling and probability help advance generative AI, highlighting emerging research and engineering directions.
+  </p>
+  <ul>
+    <li>Presented the role of mathematical modeling and probability in advancing generative AI.</li>
+    <li>Discussed new perspectives for research and engineering in generative AI.</li>
+  </ul>
+</div>
 
 <div class="teaching-item">
   <div class="course-name">Implementation of Diffusion Models</div>
