@@ -46,6 +46,14 @@ title: Home
     <h2>Recent News</h2>
     <ul class="news-list">
       <li>
+        <span class="news-date">Mar 2026</span>
+        Appointed as Head of Data and AI at GrowUP AI, leading the strategic development of AI solutions and managing data-driven transformation projects.
+      </li>
+      <li>
+        <span class="news-date">Mar 2026</span>
+        Served as an Application Reviewer for the 3rd African Computer Vision Summer School (ACVSS 2026), contributing to the selection of the next generation of African vision researchers.
+      </li>
+      <li>
         <span class="news-date">Dec 2025</span>
         Delivered a talk on how mathematical modeling and probability help advance generative AI, highlighting emerging research and engineering directions.
       </li>
