@@ -58,12 +58,12 @@ title: Home
         Delivered a talk on how mathematical modeling and probability help advance generative AI, highlighting emerging research and engineering directions.
       </li>
       <li>
-        <span class="news-date">Nov 2025</span>
-        Leading workshop on Implementation of Diffusion Models at Benin Workshop on Artificial Intelligence (BWAI)
-      </li>
-      <li>
         <span class="news-date">Dec 2025</span>
         Co-organizing Deep Learning Indaba X Benin - 4th Edition
+      </li>
+      <li>
+        <span class="news-date">Nov 2025</span>
+        Leading workshop on Implementation of Diffusion Models at Benin Workshop on Artificial Intelligence (BWAI)
       </li>
       <li>
         <span class="news-date">Aug 2025</span>
