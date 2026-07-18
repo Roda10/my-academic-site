@@ -10,7 +10,7 @@ title: Home
     </div>
     <div class="profile-info">
       <h1 class="profile-name">Rodéo Oswald Y. TOHA</h1>
-      <p class="profile-title">Engineer in Computational Modeling and Generative AI</p>
+      <p class="profile-title">Engineer in Probabilistic Modeling and Generative AI</p>
       <p class="profile-title">African Institute of Mathematical Sciences (AIMS)</p>
       <div class="profile-links">
         <a href="mailto:rodeo@aims.ac.za">Email</a>
@@ -24,7 +24,7 @@ title: Home
 
   <h2>About</h2>
   <p>
-    I am an aspiring AI researcher pursuing PhD opportunities in computational modeling and/or generative AI. I completed my Master's in Artificial Intelligence for Sciences at the African Institute of Mathematical Sciences (AIMS) in Cape Town, South Africa, where my thesis focused on robust full-body 3D human pose estimation.
+    I am an aspiring AI researcher pursuing PhD opportunities in Probabilistic modeling and/or generative AI. I completed my Master's in Artificial Intelligence for Sciences at the African Institute of Mathematical Sciences (AIMS) in Cape Town, South Africa, where my thesis focused on robust full-body 3D human pose estimation.
   </p>
   <p>
     My research combines strong mathematical foundations with production-level coding skills in TensorFlow and PyTorch to address real-world challenges, particularly in African contexts. I am passionate about advancing work in 3D vision, generative models, and their applications in developing regions.
@@ -33,7 +33,7 @@ title: Home
   <div class="research-interests">
     <h2>Research Interests</h2>
     <ul class="interests-list">
-      <li>computational modeling</li>
+      <li>Probabilistic Modeling</li>
       <li>Generative AI Models</li>
       <li>Full-Body Pose Estimation</li>
       <li>Deep Learning for Computer Vision</li>
