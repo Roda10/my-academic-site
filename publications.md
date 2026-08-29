@@ -9,13 +9,22 @@ title: Publications
 
 <div class="publication">
   <div class="pub-title">Robust Full-Body 3D Human Pose Estimation</div>
-  <div class="pub-authors"><strong>Rodéo Oswald Y. TOHA</strong></div>
-  <div class="pub-venue">Master's Thesis, African Institute of Mathematical Sciences (AIMS), South Africa</div>
+
+  <div class="pub-citation">
+    <strong>TOHA, R. O. Y.</strong> (2025).
+    <em>Robust Full Body 3D Human Pose Estimation</em>.
+    Zenodo.
+    <a href="https://doi.org/10.5281/zenodo.22109621">
+      https://doi.org/10.5281/zenodo.22109621
+    </a>
+  </div>
+
   <p>
-    Developed a composition of experts framework combining SMPLest-X, WiLoR, and EMOCA for parameter-level fusion, achieving real-time full-body reconstruction with superior hand and face details compared to FrankMocap baseline.
+    Master's thesis on robust full-body 3D human pose estimation using a composition-of-experts framework combining SMPLest-X, WiLoR, and EMOCA through parameter-level fusion.
   </p>
+
   <div class="pub-links">
-    <a href="https://drive.google.com/file/d/1ie_sMKMxkpYcWUKtagHiUPQcNsE5KhLF/view?usp=sharing">[PDF]</a>
+    <a href="https://doi.org/10.5281/zenodo.22109621">[DOI]</a>
     <a href="https://github.com/Roda10/3d_whole_body_pipeline/tree/master">[Code]</a>
   </div>
 </div>
@@ -23,32 +32,27 @@ title: Publications
 ## 2023
 
 <div class="publication">
-  <div class="pub-title">Detection and Classification of Certain Diseases Affecting Vegetable Crops Using Informed Convolutional Neural Networks: Case of Tomato</div>
-  <div class="pub-authors"><strong>Rodéo Oswald Y. TOHA</strong></div>
-  <div class="pub-venue">Engineering Thesis, National School of Mathematical and Modeling Engineering, Benin</div>
+  <div class="pub-title">
+    Détection et classification de quelques maladies affectant quelques cultures maraîchères par la méthode des Réseaux de Neurones Convolutifs informés : cas de la tomate
+  </div>
+
+  <div class="pub-citation">
+    <strong>TOHA, R. O. Y.</strong> (2023).
+    <em>Détection et classification de quelques maladies affectant quelques cultures maraîchères par la méthode des Réseaux de Neurones Convolutifs informés : cas de la tomate</em>.
+    Zenodo.
+    <a href="https://doi.org/10.5281/zenodo.22110209">
+      https://doi.org/10.5281/zenodo.22110209
+    </a>
+  </div>
+
   <p>
-    Proposed a novel method for initializing convolutional filters based on phytopathology expertise. Conducted extensive study of deep CNNs and evaluated neural network interpretability and fidelity for agricultural disease detection.
+    Engineering thesis on tomato disease detection and classification using informed convolutional neural networks, with a domain-informed initialization strategy based on phytopathology expertise.
   </p>
   <div class="pub-links">
-    <a href="https://drive.google.com/file/d/1JaKpOsRal-5tRxKccmmGaQeQevP6YdXd/view?usp=sharing">[PDF]</a> 
-    <!-- <a href="#">[Code]</a> -->
+    <a href="https://doi.org/10.5281/zenodo.22110209">[DOI]</a>
   </div>
 </div>
 
-<div class="publication">
-  <div class="pub-title">Modeling Rainfall Using Recurrent Neural Networks in the Ouémé Basin at Savè</div>
-  <div class="pub-authors"><strong>Rodéo Oswald Y. TOHA</strong></div>
-  <div class="pub-venue">Supervised Project, National School of Mathematical and Modeling Engineering, Benin</div>
-  <p>
-    Developed deep RNN models for rainfall prediction with focus on neural network interpretability and uncertainty quantification.
-  </p>
-  <div class="pub-links">
-    <!-- <a href="#">[PDF]</a> -->
-    <!-- <a href="#">[Code]</a> -->
-  </div>
-</div>
-
----
 <!--
 <p style="margin-top: 30px; color: #666; font-size: 14px;">
   <em>Papers in preparation and under review will be added here. PDF links and code repositories will be made available upon publication.</em>
