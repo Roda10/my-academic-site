@@ -20,7 +20,7 @@ I am always happy to discuss research opportunities, potential collaborations, o
   
   <div class="contact-item">
     <span class="contact-label">Location:</span>
-    Cape Town, South Africa (current) / Godomey, Benin
+    Godomey, Benin (current) / Cape Town, South Africa 
   </div>
   
   <div class="contact-item">
@@ -44,20 +44,7 @@ I am always happy to discuss research opportunities, potential collaborations, o
 
 ## Research Interests & Collaboration
 
-I am particularly interested in:
-
-- **PhD Opportunities** in Machine Learning, Computational Neuroscience, and AI
-- **Research Collaborations** in probabilistic modeling, generative models, computational modeling, and neural data analysis
-- **AI/ML for Scientific and Societal Challenges**, particularly in Africa
-- **Workshops, Conferences, and Research Exchanges** involving AI, computation, and interdisciplinary science
-
----
-
-## Current Affiliation
-
-**African Institute of Mathematical Sciences (AIMS)**  
-Master's Program in AI for Sciences  
-Muizenberg, Cape Town, South Africa  
+I am particularly interested in opportunities that allow me to deepen my work in computer vision, probabilistic machine learning, generative modeling, and computational neuroscience. I am also open to research collaborations around representation learning, neural decoding, robust learning, and probabilistic inference, as well as research exchanges and workshops that bring together machine learning and scientific discovery.
 
 ---
 
