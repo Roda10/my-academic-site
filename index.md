@@ -10,7 +10,7 @@ title: Home
     </div>
     <div class="profile-info">
       <h1 class="profile-name">Rodéo Oswald Y. TOHA</h1>
-      <p class="profile-title">Engineer in Probabilistic Modeling and Generative AI</p>
+      <p class="profile-title">AI Researcher in Computer Vision, Probabilistic Learning, and Computational Neuroscience</p>
       <p class="profile-title">African Institute of Mathematical Sciences (AIMS)</p>
       <div class="profile-links">
         <a href="mailto:rodeo@aims.ac.za">Email</a>
@@ -23,24 +23,25 @@ title: Home
   </div>
 
   <h2>About</h2>
-  <p>
-    I am an aspiring AI researcher pursuing PhD opportunities in Probabilistic modeling and/or generative AI. I completed my Master's in Artificial Intelligence for Sciences at the African Institute of Mathematical Sciences (AIMS) in Cape Town, South Africa, where my thesis focused on robust full-body 3D human pose estimation.
-  </p>
-  <p>
-    My research combines strong mathematical foundations with production-level coding skills in TensorFlow and PyTorch to address real-world challenges, particularly in African contexts. I am passionate about advancing work in 3D vision, generative models, and their applications in developing regions.
-  </p>
+<p>
+  I am an aspiring AI researcher with interests in computer vision, probabilistic machine learning, generative modeling, and computational neuroscience. I completed my Master's in Artificial Intelligence for Sciences at the African Institute of Mathematical Sciences (AIMS) in Cape Town, South Africa, where my thesis focused on robust full-body 3D human pose estimation.
+</p>
 
-  <div class="research-interests">
-    <h2>Research Interests</h2>
-    <ul class="interests-list">
-      <li>Probabilistic Modeling</li>
-      <li>Generative AI Models</li>
-      <li>Full-Body Pose Estimation</li>
-      <li>Deep Learning for Computer Vision</li>
-      <li>Bayesian Inference & Statistical Modeling</li>
-      <li>AI Applications in Developing Regions</li>
-    </ul>
-  </div>
+<p>
+  My work is grounded in strong mathematical foundations and practical experience with PyTorch, TensorFlow, and scientific computing. I am particularly interested in learning reliable representations from complex data, with applications spanning visual perception, generative models, and neural data analysis.
+</p>
+
+ <div class="research-interests">
+  <h2>Research Interests</h2>
+  <ul class="interests-list">
+    <li>Computer Vision & Representation Learning</li>
+    <li>Generative & Probabilistic Machine Learning</li>
+    <li>3D Human-Centered Vision</li>
+    <li>Computational Neuroscience</li>
+    <li>Bayesian Inference & Statistical Modeling</li>
+    <li>Robust Learning from Complex Data</li>
+  </ul>
+</div>
 
   <div class="news-section">
     <h2>Recent News</h2>
