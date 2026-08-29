@@ -6,6 +6,18 @@ title: Projects
 # Research Projects
 
 <div class="project">
+  <h3 class="project-title">Decoding Visual Orientation from RORB Layer-4 Neurons</h3>
+  <p class="project-meta">Computational Neuroscience Project | TReND-CaMinA | June - July 2026</p>
+  <p class="project-description">
+    Analyzed two-photon calcium-imaging data from the Allen Brain Observatory to study how visual orientation information is represented across cortical regions. Characterized neuronal orientation selectivity and trained logistic-regression decoders to predict drifting-grating orientation from neural activity, comparing decoding performance across VISp, VISpm, and VISal.
+  </p>
+  <p><strong>Technologies:</strong> Python, NumPy, pandas, scikit-learn, Matplotlib</p>
+  <div class="project-links">
+    <a href="YOUR_GITHUB_LINK">[GitHub]</a>
+  </div>
+</div>
+
+<div class="project">
   <h3 class="project-title">Robust Full-Body 3D Human Pose Estimation</h3>
   <p class="project-meta">Master's Research | African Institute of Mathematical Sciences | Sept 2024 - July 2025</p>
   <p class="project-description">
