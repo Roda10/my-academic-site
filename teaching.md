@@ -98,11 +98,11 @@ title: Teaching
 
 ## Teaching Philosophy
 
-My teaching approach emphasizes:
-- **Practical Implementation**: Balancing theoretical foundations with hands-on coding experience
-- **Real-World Applications**: Connecting ML/CV concepts to problems relevant to developing regions
-- **Collaborative Learning**: Fostering peer-to-peer knowledge sharing and group problem-solving
-- **Research-Oriented Thinking**: Encouraging students to think critically and explore open problems
+My teaching approach is built on a simple belief: **anyone can make meaningful contributions to science if they learn to understand ideas deeply and intuitively.**
+
+I therefore try to teach concepts from first principles, using simple explanations, visual intuition, and concrete examples before introducing formalism. My goal is not only for students to know how to use a method, but to understand why it works, what assumptions it makes, and when it may fail.
+
+I also encourage students to question ideas, reconstruct concepts in their own words, and connect mathematical reasoning with practical implementation.
 
 ---
 
