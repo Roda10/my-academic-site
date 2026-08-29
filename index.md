@@ -46,6 +46,10 @@ title: Home
     <h2>Recent News</h2>
     <ul class="news-list">
       <li>
+        <span class="news-date">Sep 2026</span>
+        Serving as Programme Lead for Deep Learning IndabaX Benin 2026, coordinating the technical programme and speaker sessions.
+      </li>
+      <li>
         <span class="news-date">Jul 2026</span>
         Attended the TReND-CaMinA 2026 Summer School in Kenya, gaining hands-on experience in computational neuroscience, machine learning, and neural data analysis.
       </li>
