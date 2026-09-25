@@ -18,6 +18,7 @@ title: Home
         <a href="https://www.linkedin.com/in/rodeooswald/" target="_blank">LinkedIn</a>
         <a href="https://github.com/Roda10" target="_blank">GitHub</a> 
         <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=SgHWtRMAAAAJ" target="_blank">Google Scholar</a>
+        <a href="https://www.alphaxiv.org/@rodeo-oswald-y-toha" target="_blank">Alphaxiv</a>
       </div>
     </div>
   </div>
