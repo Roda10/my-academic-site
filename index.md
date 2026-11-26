@@ -47,6 +47,34 @@ title: Home
   <div class="news-section">
     <h2>Recent News</h2>
     <ul class="news-list">
+     <li>
+          <span class="news-date">Nov 2026</span>
+          Delivered a keynote at the
+          <a href="https://www.linkedin.com/company/bwai-ifri/" target="_blank">
+            Benin Workshop on Artificial Intelligence (BWAI)
+          </a>
+          entitled "Think With AI, Not Instead of It: Understanding AI
+          and the Risk of Cognitive Outsourcing," exploring the
+          implications of AI for education, independent thinking,
+          and reasoning from first principles.
+      </li>
+      <li>
+          <span class="news-date">Nov 2026</span>
+          Delivered a scientific outreach talk at FAST-UAC on behalf of the
+          <a href="https://www.linkedin.com/company/bourseama/" target="_blank">
+            Académie des Mathématiques Appliquées (AMA)
+          </a>,
+          connecting mathematics, physics, and AI while encouraging
+          scientific curiosity, mathematical intuition, and problem-solving
+          among university students in Benin.
+      </li>
+      <li>
+          <span class="news-date">Oct 2026</span>
+          Delivered an invited talk at the GMM Career Day on
+          probabilistic machine learning, approximate inference,
+          and the importance of mathematical foundations and
+          independent thinking in the age of AI.
+      </li>
       <li>
         <span class="news-date">Sep 2026</span>
         Serving as Programme Lead for Deep Learning IndabaX Benin 2026, coordinating the technical programme and speaker sessions.
